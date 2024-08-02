@@ -9,7 +9,7 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain.callbacks import get_openai_callback
 import os
  
-api_key=st.secrets("api_key")
+api_key=st.secrets["api_key"]
  
 # Sidebar contents
 with st.sidebar:
