@@ -5,5 +5,5 @@ streamlit
 faiss-cpu
 streamlit-extras
 openai
-langchain_community
+langchain-community
 tiktoken
