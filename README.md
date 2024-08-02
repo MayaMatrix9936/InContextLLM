@@ -30,7 +30,8 @@ The following Python packages are required:
 **## Live Demo** 🎥:
 Explore a live demo of the LLM Chat App at the following URL:
 
-[screen-capture.webm](https://github.com/user-attachments/assets/725c6ba2-ec3f-4bd8-87de-f78145d77680)
+[screen-capture.webm](https://github.com/user-attachments/assets/ab985f3b-3891-42ce-a6aa-57ed62913d67)
+
 
 This demo showcases the core functionalities of the app, allowing you to upload PDFs, ask questions, and view responses in real-time.
 
